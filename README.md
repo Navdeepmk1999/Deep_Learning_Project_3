@@ -2,6 +2,14 @@
 
 **Spring 2025 | NYU Deep Learning - Final Project**
 
+## Authors
+
+- **Navdeep Mugathihalli Kumaregowda** (nm4686)  
+- **Satya Deep Dasarai** (gd2576)  
+
+_New York University_
+
+
 This project explores adversarial robustness of pretrained image classifiers (ResNet-34 and DenseNet-121) through gradient-based and patch-based attacks. The goal is to “jailbreak” high-performing models by generating adversarial examples that lead to severe misclassification while maintaining visual similarity to the original images.
 
 ---
